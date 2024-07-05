@@ -1,19 +1,19 @@
 {
-  "name": "for-tea-testnet",
-  "version": "1.0.3",
+  "name": "tea-testnet-pixel",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "edgarmatt",
+  "author": "pixel",
   "license": "ISC",
   "dependencies": {
     "whatsapp_broadcast_bot": "^1.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/edgarmatoto/for-tea-testnet"
+    "url": "https://github.com/pixel-tiger/Tea-TestNet-Pixel"
   }
 }
