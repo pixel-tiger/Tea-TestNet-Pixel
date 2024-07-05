@@ -1,1 +1,1 @@
-# Tea-TestNet-Pixel
+# THIS REPOSITORY IS FOR TEA TESTNET
